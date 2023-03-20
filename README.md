@@ -1,5 +1,11 @@
 # A* Path Planning
-Project by: Rohan Maan and Omkar Chittar
+Project by: 
+
+Rohan Maan(rmaan, 119061770) 
+
+and 
+
+Omkar Chittar(ochittar, 119193556)
 
 Libraries used:
 1. cv2
@@ -9,7 +15,7 @@ Libraries used:
 
 ## We can run the code using the following command:
 
-    python3 A-star_path_planner.py
+    python3 a_star_Rohan#1_Omkar#2.py
 
 ## Sample inputs:
 

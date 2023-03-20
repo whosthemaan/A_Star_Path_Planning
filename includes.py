@@ -298,7 +298,7 @@ def backtrack(goal):
 def animate(explored, back_track, c, r):
     fourcc = cv2.VideoWriter_fourcc(*'XVID')
     path="./A_Star.avi"
-    out = cv2.VideoWriter(path, fourcc, 60.0, (x_field, y_field))
+    out = cv2.VideoWriter(path, fourcc, 20.0, (x_field, y_field))
     field = np.zeros((y_field, x_field, 3), dtype=np.uint8)
     count = 0
 
