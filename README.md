@@ -51,7 +51,7 @@ Libraries used:
 ## Output
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/40595475/226489376-81d3bf6e-80c8-4421-b829-f5b633a6c3eb.png" >
+<img src="https://user-images.githubusercontent.com/40595475/226656046-b709b392-96e1-4342-9464-f5dbdea0ee51.gif" >
 </p>
 
 Note: If the radius of the robot and the clearance combined create hinderance in the path of the robot, it will stop the navigation and give an error. Please retry in that case. The sum of two cannot be greater than 4 to reach every coordinate of the given field.
